@@ -29,5 +29,4 @@ LibrarySystem/
 ├── main.py
 ├── library_management.log 
 ├── README.md 
-└── requirements.txt 
-
+├── requirements.txt 
