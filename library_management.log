@@ -1,0 +1,7 @@
+2025-07-06 11:29:46,999 - Library_Management_Logger - INFO - Student 'arif' logged into the library successfully.
+2025-07-06 11:29:48,907 - Library_Management_Logger - INFO - Displayed available books.
+2025-07-06 11:29:57,198 - Library_Management_Logger - INFO - Book lend: 'Python Coding' to arif
+2025-07-06 11:29:57,198 - Library_Management_Logger - DEBUG - arif borrowed Python Coding
+2025-07-06 11:30:21,437 - Library_Management_Logger - INFO - Book returned: 'Python Coding'
+2025-07-06 11:30:21,440 - Library_Management_Logger - DEBUG - arif returned Python Coding
+2025-07-06 11:30:26,742 - Library_Management_Logger - INFO - Program exited by user.
