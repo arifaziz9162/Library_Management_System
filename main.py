@@ -106,7 +106,7 @@ class Library:
                 raise LibraryError(f"'{returned_book}' does not belong to this library.")
             
         except LibraryError as le:
-            logger.error(f"Error occurred during return book", exc_info=True)
+            logger.error("Error occurred during return book", exc_info=True)
             print(str(le))
 
 class Student:
